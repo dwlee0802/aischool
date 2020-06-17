@@ -6,3 +6,4 @@ https://github.com/dwlee0802/aischool/blob/master/aischoolweek2.ipynb
 ## 3주차 과제
 https://github.com/dwlee0802/aischool/blob/master/AISchool_week3.ipynb
 ## 4주차 과제
+https://github.com/dwlee0802/aischool/blob/master/AISchool_week4.ipynb
